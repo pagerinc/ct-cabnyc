@@ -1,0 +1,13 @@
+# python
+.python-version
+.ipynb_checkpoints
+.idea
+
+# R
+.Rproj
+.Rhistory
+.Rapp.history
+.Rproj.user
+
+# macOS
+.DS_Store
